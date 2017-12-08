@@ -1,7 +1,0 @@
-﻿#ifndef __GLOBAL_DEFINES_H__
-#define __GLOBAL_DEFINES_H__
-
-#define K_DIAMONDS_VIP_CARD_NUM		 300
-#define K_COLOR_DIAMOND_VIP_CARD_NUM 800
-
-#endif //__GLOBAL_DEFINES_H__
