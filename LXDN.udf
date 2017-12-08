@@ -1,0 +1,65 @@
+<UserData Version="3.10.0.0">
+  <Properties>
+    <Item Key="PackageParamsKey">
+      <Value ctype="PackageParams">
+        <LuaIsEncrypt Value="False" />
+        <LuaEncryptKey Value="" />
+        <LuaEncryptSign Value="" />
+        <Android_PackageName Value="org.cocos.LXDN" />
+        <AndroidkeyStore Value="" />
+        <AndroidVersion Value="" />
+        <iOS_Target Value="LXDN-mobile" />
+        <iOS_BundleID Value="" />
+        <Platform Value="None" />
+        <RunPlatform Value="None" />
+        <FrameworkVersion Value="cocos2d-x-3.10" />
+        <IsDebugKeystore Value="True" />
+        <EnableSourceMap Value="False" />
+        <EnableHTML5Advanced Value="False" />
+      </Value>
+    </Item>
+    <Item Key="CocosRecentOperation">
+      <Value ctype="CocosRecentOperation">
+        <LastPublishType Value="Resource" />
+        <IsLastPublish Value="True" />
+        <LastRunType Value="Windows" />
+      </Value>
+    </Item>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="MainScene.csd" />
+          <FilePathData Path="GameScene.csd" />
+          <FilePathData Path="LoginScene.csd" />
+          <FilePathData Path="LoginLoadLayer.csd" />
+          <FilePathData Path="LoginIDPWLayer.csd" />
+          <FilePathData Path="mainLayer.csd" />
+          <FilePathData Path="PlayWayLayer.csd" />
+          <FilePathData Path="StartScene.csd" />
+          <FilePathData Path="shopLayer.csd" />
+          <FilePathData Path="ShareLayer.csd" />
+          <FilePathData Path="RoomClock.csd" />
+          <FilePathData Path="PromptLayer.csd" />
+          <FilePathData Path="PopupLayer.csd" />
+          <FilePathData Path="LoadLayer.csd" />
+          <FilePathData Path="InviteCodeLayer.csd" />
+          <FilePathData Path="InsteadRecord.csd" />
+          <FilePathData Path="InformationLayer.csd" />
+          <FilePathData Path="GameVoiceRecordLayer.csd" />
+          <FilePathData Path="GameOverLayer.csd" />
+          <FilePathData Path="FeedbackLayer.csd" />
+          <FilePathData Path="DismissLayer.csd" />
+          <FilePathData Path="createRoomLayer.csd" />
+          <FilePathData Path="checkInLayer.csd" />
+          <FilePathData Path="chat/expressionLayer.csd" />
+          <FilePathData Path="GameSet/GameSetLayer.csd" />
+          <FilePathData Path="GameSussex/SussexLayer.csd" />
+          <FilePathData Path="News/NewsLayer.csd" />
+          <FilePathData Path="System_Exit/AgreeMentLayer.csd" />
+          <FilePathData Path="System_Exit/SystemExitLayer.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="GameScene.csd" />
+      </Value>
+    </Item>
+  </Properties>
+</UserData>

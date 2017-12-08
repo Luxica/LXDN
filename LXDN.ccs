@@ -1,0 +1,615 @@
+<Solution>
+  <PropertyGroup Name="LXDN" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="chat">
+          <Image Name="1.png" />
+          <Project Name="expressionLayer.csd" Type="Layer" />
+          <Image Name="frame_chat1.png" />
+        </Folder>
+        <Folder Name="CloseButton">
+          <Image Name="1.png" />
+          <Image Name="2.png" />
+        </Folder>
+        <Folder Name="CreateRoom">
+          <Image Name="bg_cjfj.png" />
+          <Image Name="btn_cjfj.png" />
+          <Image Name="btn_cjfj_1.png" />
+          <Image Name="btn_niu_1.png" />
+          <Image Name="btn_niuniu.png" />
+          <Image Name="image_10ju.png" />
+          <Image Name="image_10ju_1.png" />
+          <Image Name="image_16ju.png" />
+          <Image Name="image_16ju_1.png" />
+          <Image Name="image_fgx.png" />
+          <Image Name="image_fszqz.png" />
+          <Image Name="image_fszqz_1.png" />
+          <Image Name="image_fzqk.png" />
+          <Image Name="image_fzqk_1.png" />
+          <Image Name="image_fzzz.png" />
+          <Image Name="image_fzzz_1.png" />
+          <Image Name="image_jdqz.png" />
+          <Image Name="image_jdqz_1.png" />
+          <Image Name="image_ks.png" />
+          <Image Name="image_ks_1.png" />
+          <Image Name="image_llzz.png" />
+          <Image Name="image_llzz_1.png" />
+          <Image Name="image_ptzf.png" />
+          <Image Name="image_ptzf_1.png" />
+          <Image Name="image_whp.png" />
+          <Image Name="image_whp_1.png" />
+          <Image Name="image_yhp.png" />
+          <Image Name="image_yhp_1.png" />
+          <Image Name="image_ynf.png" />
+          <Image Name="image_ynf_1.png" />
+          <Image Name="image_zs.png" />
+          <Image Name="text_fufei.png" />
+          <Image Name="text_jushu.png" />
+          <Image Name="text_wanfa.png" />
+          <Image Name="text_zuozuang.png" />
+        </Folder>
+        <Folder Name="Dismiss">
+          <Image Name="bg_j.png" />
+          <Image Name="bg_jg.png" />
+          <Image Name="bg_js.png" />
+          <Image Name="bg_jsfj.png" />
+          <Image Name="btn_agreen.png" />
+          <Image Name="btn_agreen_1.png" />
+          <Image Name="btn_qd.png" />
+          <Image Name="btn_qd_1.png" />
+          <Image Name="btn_qx.png" />
+          <Image Name="btn_qx_1.png" />
+          <Image Name="btn_rejust.png" />
+          <Image Name="btn_rejust_1.png" />
+          <Image Name="text_ddz.png" />
+          <Image Name="text_sq.png" />
+          <Image Name="text_ty.png" />
+        </Folder>
+        <Folder Name="Expression">
+          <Image Name="1.png" />
+          <Image Name="10.png" />
+          <Image Name="11.png" />
+          <Image Name="12.png" />
+          <Image Name="13.png" />
+          <Image Name="14.png" />
+          <Image Name="15.png" />
+          <Image Name="16.png" />
+          <Image Name="17.png" />
+          <Image Name="18.png" />
+          <Image Name="19.png" />
+          <Image Name="2.png" />
+          <Image Name="20.png" />
+          <Image Name="21.png" />
+          <Image Name="22.png" />
+          <Image Name="23.png" />
+          <Image Name="24.png" />
+          <Image Name="3.png" />
+          <Image Name="4.png" />
+          <Image Name="5.png" />
+          <Image Name="6.png" />
+          <Image Name="7.png" />
+          <Image Name="8.png" />
+          <Image Name="9.png" />
+          <Image Name="effect_emoji_0.png" />
+          <Image Name="effect_emoji_1.png" />
+          <Image Name="effect_emoji_2.png" />
+          <Image Name="effect_emoji_3.png" />
+          <Image Name="effect_emoji_4.png" />
+        </Folder>
+        <Folder Name="Feedback">
+          <Image Name="bg_fk.png" />
+          <Image Name="bg_kf.png" />
+          <Image Name="btn_kefu.png" />
+          <Image Name="btn_kefu_1.png" />
+          <Image Name="btn_tj.png" />
+          <Image Name="btn_tj_1.png" />
+          <Image Name="frame_number.png" />
+          <Image Name="frame_yijian.png" />
+          <Image Name="text_fbt.png" />
+          <Image Name="text_fk.png" />
+          <Image Name="text_fk_1.png" />
+          <Image Name="text_message.png" />
+          <Image Name="text_number.png" />
+          <Image Name="text_yijian.png" />
+        </Folder>
+        <Folder Name="font">
+          <Image Name="sort.png" />
+          <Image Name="TimeNumberPin.png" />
+        </Folder>
+        <Folder Name="GameLose">
+          <Image Name="5.png" />
+          <Image Name="6.png" />
+          <Image Name="image_guang.png" />
+          <Image Name="image_jb.png" />
+          <Image Name="image_star.png" />
+          <Image Name="pannel_01.png" />
+          <Image Name="pannel_guang.png" />
+        </Folder>
+        <Folder Name="GameOver">
+          <Image Name="1.png" />
+          <Image Name="2.png" />
+          <Image Name="3.png" />
+          <Image Name="4.png" />
+          <Image Name="5.png" />
+          <Image Name="6.png" />
+          <Image Name="7.png" />
+          <Image Name="8.png" />
+          <Image Name="pannel_01.png" />
+          <Image Name="text_df.png" />
+          <Image Name="text_win.png" />
+        </Folder>
+        <Folder Name="GameScene">
+          <Image Name="10.png" />
+          <Image Name="11.png" />
+          <Image Name="16.png" />
+          <Image Name="17.png" />
+          <Image Name="2.png" />
+          <Image Name="20.png" />
+          <Image Name="21.png" />
+          <Image Name="22.png" />
+          <Image Name="23.png" />
+          <Image Name="3.png" />
+          <Image Name="30.png" />
+          <Image Name="31.png" />
+          <Image Name="37.png" />
+          <Image Name="4.png" />
+          <Image Name="5.png" />
+          <Image Name="6.png" />
+          <Image Name="7.png" />
+          <Image Name="8.png" />
+          <Image Name="9.png" />
+          <Image Name="battery.png" />
+          <Image Name="battery_bg.png" />
+          <Image Name="BgLose.png" />
+          <Image Name="BgWin.png" />
+          <Image Name="btn_cp.png" />
+          <Image Name="btn_cp_1.png" />
+          <Image Name="btn_cxjg.png" />
+          <Image Name="btn_cxjg_1.png" />
+          <Image Name="btn_fxzj.png" />
+          <Image Name="btn_fxzj_1.png" />
+          <Image Name="btn_gt.png" />
+          <Image Name="btn_gt_1.png" />
+          <Image Name="btn_jx.png" />
+          <Image Name="btn_jx_1.png" />
+          <Image Name="btn_jxyx.png" />
+          <Image Name="btn_jxyx_1.png" />
+          <Image Name="btn_zdsn.png" />
+          <Image Name="btn_zdsn_1.png" />
+          <Image Name="frame_number.png" />
+          <Image Name="frame_number1.png" />
+          <Image Name="frame_zj.png" />
+          <Image Name="ok.png" />
+          <Image Name="pannel_tx.png" />
+          <Image Name="pannel_x.png" />
+          <Image Name="signal0.png" />
+          <Image Name="signal1.png" />
+          <Image Name="signal2.png" />
+          <Image Name="signal3.png" />
+          <Image Name="signal4.png" />
+          <Image Name="text_next.png" />
+          <Image Name="text_qz.png" />
+          <Image Name="text_spz.png" />
+          <Image Name="text_win.png" />
+          <Image Name="text_z.png" />
+          <Image Name="warn.png" />
+          <Image Name="X1.png" />
+          <Image Name="X10.png" />
+          <Image Name="X2.png" />
+          <Image Name="X3.png" />
+          <Image Name="X4.png" />
+          <Image Name="X5.png" />
+          <Image Name="X6.png" />
+          <Image Name="X7.png" />
+          <Image Name="X8.png" />
+          <Image Name="X9.png" />
+          <Image Name="zhuang.png" />
+        </Folder>
+        <Folder Name="GameSet">
+          <Image Name="bg_sz.png" />
+          <Image Name="bg_tcyx.png" />
+          <Image Name="bg_tcyx_1.png" />
+          <Project Name="GameSetLayer.csd" Type="Layer" />
+          <Image Name="image_an.png" />
+          <Image Name="php_1.png" />
+          <Image Name="php_2.png" />
+          <Image Name="text_bjy.png" />
+          <Image Name="text_yx.png" />
+        </Folder>
+        <Folder Name="GameSussex">
+          <Image Name="1.png" />
+          <Image Name="2.png" />
+          <Image Name="3.png" />
+          <Image Name="4.png" />
+          <Image Name="5.png" />
+          <Image Name="6.png" />
+          <Image Name="7.png" />
+          <Image Name="8.png" />
+          <Project Name="SussexLayer.csd" Type="Layer" />
+        </Folder>
+        <Folder Name="Grap">
+          <Image Name="1.png" />
+          <Image Name="10-1.png" />
+          <Image Name="10-2.png" />
+          <Image Name="2.png" />
+          <Image Name="20-1.png" />
+          <Image Name="20-2.png" />
+          <Image Name="25-1.png" />
+          <Image Name="25-2.png" />
+          <Image Name="3.png" />
+          <Image Name="30-1.png" />
+          <Image Name="30-2.png" />
+          <Image Name="4.png" />
+          <Image Name="5-1.png" />
+          <Image Name="5-2.png" />
+          <Image Name="grapY.png" />
+          <Image Name="mskx.png" />
+          <Image Name="win.png" />
+          <Image Name="xiazhu.png" />
+          <Image Name="zdxz-1.png" />
+          <Image Name="zdxz-2.png" />
+        </Folder>
+        <Folder Name="Information">
+          <Image Name="31.png" />
+          <Image Name="bg_massage.png" />
+          <Image Name="image_sf.png" />
+          <Image Name="m.png" />
+          <Image Name="w.png" />
+        </Folder>
+        <Folder Name="InsteadRecord">
+          <Image Name="1.png" />
+          <Image Name="10.png" />
+          <Image Name="11.png" />
+          <Image Name="14.png" />
+          <Image Name="16.png" />
+          <Image Name="17.png" />
+          <Image Name="18.png" />
+          <Image Name="2.png" />
+          <Image Name="20.png" />
+          <Image Name="21.png" />
+          <Image Name="22.png" />
+          <Image Name="23.png" />
+          <Image Name="24.png" />
+          <Image Name="3.png" />
+          <Image Name="4.png" />
+          <Image Name="5.png" />
+          <Image Name="6.png" />
+          <Image Name="7.png" />
+          <Image Name="player.png" />
+          <Image Name="roomNum.png" />
+          <Image Name="state_1.png" />
+          <Image Name="state_2.png" />
+        </Folder>
+        <Folder Name="InviteCode">
+          <Image Name="3.png" />
+          <Image Name="4.png" />
+          <Image Name="5.png" />
+          <Image Name="8.png" />
+          <Image Name="text_jb.png" />
+          <Image Name="text_qsr.png" />
+        </Folder>
+        <Folder Name="Light">
+          <Image Name="light1.png" />
+          <Image Name="light2.png" />
+        </Folder>
+        <Folder Name="Load">
+          <Image Name="1-1.png" />
+          <Image Name="1-10.png" />
+          <Image Name="1-11.png" />
+          <Image Name="1-2.png" />
+          <Image Name="1-3.png" />
+          <Image Name="1-4.png" />
+          <Image Name="1-5.png" />
+          <Image Name="1-6.png" />
+          <Image Name="1-7.png" />
+          <Image Name="1-8.png" />
+          <Image Name="1-9.png" />
+        </Folder>
+        <Folder Name="Login">
+          <Image Name="1.png" />
+          <Image Name="2.png" />
+          <Image Name="2-2.png" />
+          <Image Name="2-3.png" />
+          <Image Name="2-4.png" />
+          <Image Name="2-5.png" />
+          <Image Name="2-6.png" />
+          <Image Name="2-7.png" />
+          <Image Name="3.png" />
+          <Image Name="8.png" />
+        </Folder>
+        <Folder Name="LoginIDPW">
+          <Image Name="3.png" />
+        </Folder>
+        <Folder Name="LoginLoad">
+          <Image Name="1-1.png" />
+          <Image Name="1-10.png" />
+          <Image Name="1-11.png" />
+          <Image Name="1-2.png" />
+          <Image Name="1-3.png" />
+          <Image Name="1-4.png" />
+          <Image Name="1-5.png" />
+          <Image Name="1-6.png" />
+          <Image Name="1-7.png" />
+          <Image Name="1-8.png" />
+          <Image Name="1-9.png" />
+        </Folder>
+        <Folder Name="MainLayer">
+          <Folder Name="LightEffect_1">
+            <Image Name="1-1.png" />
+            <Image Name="1-2.png" />
+            <Image Name="1-3.png" />
+            <Image Name="1-4.png" />
+            <Image Name="1-5.png" />
+            <Image Name="1-6.png" />
+            <Image Name="1-7.png" />
+            <Image Name="1-8.png" />
+          </Folder>
+          <Folder Name="LightEffect_2">
+            <Image Name="2-1.png" />
+            <Image Name="2-2.png" />
+            <Image Name="2-3.png" />
+          </Folder>
+          <Image Name="1.png" />
+          <Image Name="10.png" />
+          <Image Name="11.png" />
+          <Image Name="12.png" />
+          <Image Name="13.png" />
+          <Image Name="18.png" />
+          <Image Name="19.png" />
+          <Image Name="2.png" />
+          <Image Name="20.png" />
+          <Image Name="21.png" />
+          <Image Name="24.png" />
+          <Image Name="25.png" />
+          <Image Name="3.png" />
+          <Image Name="4.png" />
+          <Image Name="5.png" />
+          <Image Name="6.png" />
+          <Image Name="7.png" />
+          <Image Name="8.png" />
+          <Image Name="9.png" />
+          <Image Name="btn_fk.png" />
+          <Image Name="btn_fk_1.png" />
+          <Image Name="btn_gd.png" />
+          <Image Name="btn_gd_1.png" />
+          <Image Name="frame_gonggao.png" />
+          <Image Name="frame_id.png" />
+          <Image Name="frame_zs.png" />
+          <Image Name="text_gonggao.png" />
+        </Folder>
+        <Folder Name="News">
+          <Image Name="frame_gonggao.png" />
+          <Project Name="NewsLayer.csd" Type="Layer" />
+        </Folder>
+        <Folder Name="Niu">
+          <Folder Name="wnf">
+            <Image Name="bg.png" />
+            <Image Name="N-0.png" />
+            <Image Name="N-1.png" />
+            <Image Name="N-10.png" />
+            <Image Name="N-12.png" />
+            <Image Name="N-13.png" />
+            <Image Name="N-14.png" />
+            <Image Name="N-15.png" />
+            <Image Name="N-16.png" />
+            <Image Name="N-17.png" />
+            <Image Name="N-18.png" />
+            <Image Name="N-19.png" />
+            <Image Name="N-2.png" />
+            <Image Name="N-3.png" />
+            <Image Name="N-4.png" />
+            <Image Name="N-5.png" />
+            <Image Name="N-6.png" />
+            <Image Name="N-7.png" />
+            <Image Name="N-8.png" />
+            <Image Name="N-9.png" />
+          </Folder>
+          <Folder Name="ynf">
+            <Image Name="bg.png" />
+            <Image Name="N-0.png" />
+            <Image Name="N-1.png" />
+            <Image Name="N-10.png" />
+            <Image Name="N-12.png" />
+            <Image Name="N-13.png" />
+            <Image Name="N-14.png" />
+            <Image Name="N-15.png" />
+            <Image Name="N-16.png" />
+            <Image Name="N-17.png" />
+            <Image Name="N-18.png" />
+            <Image Name="N-19.png" />
+            <Image Name="N-2.png" />
+            <Image Name="N-3.png" />
+            <Image Name="N-4.png" />
+            <Image Name="N-5.png" />
+            <Image Name="N-6.png" />
+            <Image Name="N-7.png" />
+            <Image Name="N-8.png" />
+            <Image Name="N-9.png" />
+          </Folder>
+        </Folder>
+        <Folder Name="PlayType">
+          <Image Name="bg_gz.png" />
+          <Image Name="btn_n.png" />
+          <Image Name="btn_n_1.png" />
+          <Image Name="playInfo.png" />
+        </Folder>
+        <Folder Name="Pocke">
+          <Image Name="1-0.png" />
+          <Image Name="10-0.png" />
+          <Image Name="10-1.png" />
+          <Image Name="10-2.png" />
+          <Image Name="10-3.png" />
+          <Image Name="1-1.png" />
+          <Image Name="11-0.png" />
+          <Image Name="11-1.png" />
+          <Image Name="11-2.png" />
+          <Image Name="11-3.png" />
+          <Image Name="1-2.png" />
+          <Image Name="12-0.png" />
+          <Image Name="12-1.png" />
+          <Image Name="12-2.png" />
+          <Image Name="12-3.png" />
+          <Image Name="1-3.png" />
+          <Image Name="13-0.png" />
+          <Image Name="13-1.png" />
+          <Image Name="13-2.png" />
+          <Image Name="13-3.png" />
+          <Image Name="2-0.png" />
+          <Image Name="2-1.png" />
+          <Image Name="2-2.png" />
+          <Image Name="2-3.png" />
+          <Image Name="3-0.png" />
+          <Image Name="3-1.png" />
+          <Image Name="3-2.png" />
+          <Image Name="3-3.png" />
+          <Image Name="4-0.png" />
+          <Image Name="4-1.png" />
+          <Image Name="4-2.png" />
+          <Image Name="4-3.png" />
+          <Image Name="5-0.png" />
+          <Image Name="5-1.png" />
+          <Image Name="5-2.png" />
+          <Image Name="5-3.png" />
+          <Image Name="6-0.png" />
+          <Image Name="6-1.png" />
+          <Image Name="6-2.png" />
+          <Image Name="6-3.png" />
+          <Image Name="7-0.png" />
+          <Image Name="7-1.png" />
+          <Image Name="7-2.png" />
+          <Image Name="7-3.png" />
+          <Image Name="8-0.png" />
+          <Image Name="8-1.png" />
+          <Image Name="8-2.png" />
+          <Image Name="8-3.png" />
+          <Image Name="9-0.png" />
+          <Image Name="9-1.png" />
+          <Image Name="9-2.png" />
+          <Image Name="9-3.png" />
+          <Image Name="Back.png" />
+        </Folder>
+        <Folder Name="Prompt">
+          <Image Name="1.png" />
+          <Image Name="10.png" />
+          <Image Name="11.png" />
+          <Image Name="2.png" />
+          <Image Name="3.png" />
+          <Image Name="4.png" />
+          <Image Name="5.png" />
+          <Image Name="6.png" />
+          <Image Name="7.png" />
+          <Image Name="8.png" />
+          <Image Name="9.png" />
+        </Folder>
+        <Folder Name="Ready">
+          <Image Name="2.png" />
+          <Image Name="3.png" />
+          <Image Name="4.png" />
+          <Image Name="5.png" />
+          <Image Name="btn_zb.png" />
+          <Image Name="btn_zb_1.png" />
+          <Image Name="ready.png" />
+          <Image Name="starting.png" />
+        </Folder>
+        <Folder Name="RoomNum">
+          <Image Name="10.png" />
+          <Image Name="11.png" />
+          <Image Name="12.png" />
+          <Image Name="13.png" />
+          <Image Name="14.png" />
+          <Image Name="15.png" />
+          <Image Name="16.png" />
+          <Image Name="17.png" />
+          <Image Name="18.png" />
+          <Image Name="19.png" />
+          <Image Name="20.png" />
+          <Image Name="21.png" />
+          <Image Name="22.png" />
+          <Image Name="23.png" />
+          <Image Name="24.png" />
+          <Image Name="25.png" />
+          <Image Name="26.png" />
+          <Image Name="27.png" />
+          <Image Name="28.png" />
+          <Image Name="4.png" />
+          <Image Name="5.png" />
+          <Image Name="6.png" />
+          <Image Name="7.png" />
+          <Image Name="8.png" />
+          <Image Name="9.png" />
+        </Folder>
+        <Folder Name="Share">
+          <Image Name="bg_fx.png" />
+          <Image Name="bg_hyq.png" />
+          <Image Name="bg_hyq_1.png" />
+          <Image Name="btn_pyq.png" />
+          <Image Name="btn_pyq_1.png" />
+          <Image Name="error.png" />
+        </Folder>
+        <Folder Name="Shop">
+          <Image Name="bg_sc.png" />
+          <Image Name="bg_zs.png" />
+          <Image Name="btn_10.png" />
+          <Image Name="btn_10_1.png" />
+          <Image Name="btn_100.png" />
+          <Image Name="btn_100_1.png" />
+          <Image Name="btn_20.png" />
+          <Image Name="btn_20_1.png" />
+          <Image Name="btn_50.png" />
+          <Image Name="btn_50_1.png" />
+          <Image Name="image_1000z.png" />
+          <Image Name="image_100z.png" />
+          <Image Name="image_200z.png" />
+          <Image Name="image_500z.png" />
+        </Folder>
+        <Folder Name="Sociaty">
+          <Image Name="1.png" />
+        </Folder>
+        <Folder Name="System_Exit">
+          <Image Name="3.png" />
+          <Image Name="4.png" />
+          <Image Name="5.png" />
+          <Image Name="6.png" />
+          <Image Name="7.png" />
+          <Project Name="AgreeMentLayer.csd" Type="Layer" />
+          <Image Name="bg_j.png" />
+          <Image Name="bg_js.png" />
+          <Image Name="bg_jsfj.png" />
+          <Image Name="btn_agreen.png" />
+          <Image Name="btn_agreen_1.png" />
+          <Image Name="btn_rejust.png" />
+          <Image Name="btn_rejust_1.png" />
+          <Project Name="SystemExitLayer.csd" Type="Layer" />
+          <Image Name="text_ddz.png" />
+          <Image Name="text_sq.png" />
+          <Image Name="text_ty.png" />
+          <Image Name="YNF.png" />
+        </Folder>
+        <Project Name="checkInLayer.csd" Type="Layer" />
+        <Project Name="createRoomLayer.csd" Type="Layer" />
+        <Project Name="DismissLayer.csd" Type="Layer" />
+        <Project Name="FeedbackLayer.csd" Type="Layer" />
+        <Project Name="GameOverLayer.csd" Type="Layer" />
+        <Project Name="GameScene.csd" Type="Scene" />
+        <Project Name="GameVoiceRecordLayer.csd" Type="Layer" />
+        <Project Name="InformationLayer.csd" Type="Layer" />
+        <Project Name="InsteadRecord.csd" Type="Layer" />
+        <Project Name="InviteCodeLayer.csd" Type="Layer" />
+        <Project Name="LoadLayer.csd" Type="Layer" />
+        <Project Name="LoginIDPWLayer.csd" Type="Layer" />
+        <Project Name="LoginLoadLayer.csd" Type="Layer" />
+        <Project Name="LoginScene.csd" Type="Scene" />
+        <Project Name="mainLayer.csd" Type="Layer" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Project Name="PlayWayLayer.csd" Type="Layer" />
+        <Project Name="PopupLayer.csd" Type="Layer" />
+        <Project Name="PromptLayer.csd" Type="Layer" />
+        <Project Name="RoomClock.csd" Type="Node" />
+        <Project Name="ShareLayer.csd" Type="Layer" />
+        <Project Name="shopLayer.csd" Type="Layer" />
+        <Project Name="StartScene.csd" Type="Scene" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
