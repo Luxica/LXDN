@@ -9,7 +9,7 @@
 
 using namespace cocos2d::ui;
 using namespace cocos2d;
-
+//登录界面
 class QLoginLayer : public Layer
 {
 public:
